@@ -7,3 +7,6 @@ inside has the vmi and vms files<br>
 
 I have been using this emulator to test with<br>
 http://evmu.elysianshadows.com/
+<br><br>
+Here you can see it just plows through frames despite the framerate set in the GameHeader.i<br>
+![Alt text](data/playback.gif?raw=true "playback")
