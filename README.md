@@ -10,3 +10,9 @@ http://evmu.elysianshadows.com/
 <br><br>
 Here you can see it just plows through frames despite the framerate set in the GameHeader.i<br>
 ![Alt text](data/playback.gif?raw=true "playback")
+<br>
+Its much faster in the emulator than the recording
+<br><br>
+I tried callf Get_Input between the frames thinking it might have some magic but no luck
+<br>
+Still looking for solutions
