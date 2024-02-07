@@ -17,9 +17,5 @@ I tried callf Get_Input between the frames thinking it might have some magic but
 <br>
 Still looking for solutions
 <br><br>
-This is how I want it to be<br>
-![Alt text](data/evmu.png?raw=true "evmu")
-<br>
-got this image from http://evmu.elysianshadows.com/<br>
 I am looking for source code for different movies to figure out more on how the timing works<br>
 Still looking for solutions<br>
